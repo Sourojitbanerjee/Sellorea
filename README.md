@@ -1,6 +1,8 @@
 # Sellorea
 
 Sellorea is a simple eCommerce platform built with HTML and CSS. This project is designed as a starting point for building an online store.
+This is my first official project.
+
 
 ## Features
 - Responsive navigation menu
